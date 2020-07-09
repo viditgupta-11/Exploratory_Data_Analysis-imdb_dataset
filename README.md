@@ -1,6 +1,7 @@
 # Exploratory_Data_Analysis-imdb_dataset
 
 Problem Statement:
+
 The minor project  will be on Data Analysis.
 
 You need to clean the data and perform EDA on it and answer the following questions on the dataset.
